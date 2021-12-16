@@ -1,1 +1,1 @@
-# setup-and-teardown
+# configure-jamine-with-typescript
